@@ -1,3 +1,1 @@
-# blog
-this is my first commit.
-this is my second commit.
+博客地址在简书
